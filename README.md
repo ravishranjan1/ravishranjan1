@@ -24,8 +24,6 @@
 
 # 🛠 Tech Stack
 
-# 🛠 Tech Stack
-
 ### 💻 Frontend
 
 <p align="center">
@@ -65,7 +63,7 @@
 
 ### 🏥 Hospital Management System
 
-* Built using **Spring Boot + MySQL**
+* Built using **Spring Boot + PostgreSQL**
 * Implemented **REST APIs** for patient management
 * Features patient registration, appointment booking, and medical reports
 
@@ -77,8 +75,9 @@
 
 ### 🏦 Bank Management System
 
-* Backend banking application built with **Java**
-* Features account creation, deposit, withdrawal, and balance inquiry
+Full Stack banking application built with **Java, Spring Boot, and  PostgreSQL**
+
+Features account creation, deposit, withdrawal, balance inquiry, and transaction management with REST APIs
 
 ---
 
@@ -121,15 +120,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ravishranjan1&theme=nord&column=7&margin-w=15"/>
-
-</div>
-
----
 
 # 📈 GitHub Activity Graph
 

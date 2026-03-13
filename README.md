@@ -24,11 +24,40 @@
 
 # 🛠 Tech Stack
 
+# 🛠 Tech Stack
+
+### 💻 Frontend
+
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github,idea" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
+
+---
+
+### ⚙️ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
+
+---
+
+### 🗄 Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+### 🧰 Tools & IDE
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,idea" />
+</p>
+
+---
+
 
 ---
 

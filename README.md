@@ -140,8 +140,8 @@
 
 # 📫 Contact Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-linkedin
+* 📧 Email: [ravishranjan.rr@gmail.com](mailto:ravishranjan.rr@gmail.com)
+* 💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ravish-ranjan-813187261/)
 
 ---
 

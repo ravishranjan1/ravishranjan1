@@ -12,13 +12,13 @@
 ## 🎯 About Me
 
 <div align="center">
-  <p><strong>Full Stack Java Developer | Fresher </strong></p>
+  <p><strong>Java Full Stack Developer | Fresher</strong></p>
   
-  🚀 Specialized in **Enterprise Architecture** | **Microservices** | **Cloud Solutions**
+  🚀 Skilled in **Java** | **Spring Boot** | **REST API Development**
   
-  💼 Expert in **Spring Boot**, **AWS**, **Kubernetes**, **Docker**, and **Modern DevOps**
+  💼 Experience with **Spring Boot**, **MySQL**, **Hibernate/JPA**, and **Backend Development**
   
-  🤖 Proficient in **AI/ML** with **RAG**, **Bedrock**, **GitHub Copilot**, and **Vector Databases**
+  🌐 Knowledge of **HTML**, **CSS**, **JavaScript**, and **Full Stack Java Development**
 </div>
 
 ---
@@ -26,16 +26,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arpitlakhena99&theme=nord&column=7&margin-w=15" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ravishranjan1&theme=nord&column=7&margin-w=15" alt="Trophy" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arpitlakhena99&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Github Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitlakhena99&layout=compact&theme=nord" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravishranjan1&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Github Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravishranjan1&layout=compact&theme=nord" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitlakhena99&theme=nord" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravishranjan1&theme=nord" alt="Streak Stats" />
 </div>
 
 ---

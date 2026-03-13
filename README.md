@@ -43,7 +43,7 @@
 ### 🗄 Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" />
 </p>
 
 ---
@@ -51,8 +51,9 @@
 ### 🧰 Tools & IDE
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,eclipse" />
 </p>
+
 
 ---
 

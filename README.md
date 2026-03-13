@@ -26,7 +26,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravishranjan1&theme=nord&column=7&margin-w=15" alt="Trophy" />
+[  <img src="https://github-profile-trophy.vercel.app/?username=ravishranjan1&theme=nord&column=7&margin-w=15" alt="Trophy" />](https://github-profile-trophy.vercel.app/?username=ravishranjan1)
 </div>
 
 <div align="center">
